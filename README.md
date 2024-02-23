@@ -7,25 +7,20 @@ Unsupervised detection of crop rows from images taken by an unmanned aerial vehi
 
 This study introduces a methodology for processing
 high-resolution spatial images captured by unmanned aerial
+vehicles (UAVs) with the goal of detecting crop rows in peri-urban horticultural fields. 
 
-vehicles (UAVs) with the goal of detecting crop rows in peri-
-urban horticultural fields. The image processing approach is
+The image processing approach is unsupervised and solely relies on open-source tools. 
+This ensures that the procedure can be easily generalized and adapted to other
+datasets with similar features. 
 
-unsupervised and solely relies on open-source tools. This ensures
-that the procedure can be easily generalized and adapted to other
-datasets with similar features. The article details the sources
-and attributes of the data used, and outlines the algorithms
+The article details the sources and attributes of the data used, and outlines the algorithms
 and concepts involved in the processing journey, culminating
 in the creation of the final product. The process encompasses
 the preprocessing of images, field segmentation into individual
 plots, the rectification and cropping of each plot, and the
+subsequent detection of crop rows within these plots. 
 
-subsequent detection of crop rows within these plots. The pre-
-sented methodology holds promise in automating and enhancing
-
+The presented methodology holds promise in automating and enhancing
 the accuracy of crop row detection in horticultural settings,
 thereby offering invaluable insights for agricultural planning and
 decision-making.
-Index Terms—Remote Sensing, Crop row detection, Image
-processing, Precision farming, Horticulture, UAV Imagery, Drone
-Imagery.
