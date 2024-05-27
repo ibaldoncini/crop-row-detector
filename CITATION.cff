@@ -1,23 +1,35 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-type: conference-paper
-title: "Unsupervised detection of crop rows from images taken by an unmanned aerial vehicle"
 authors:
-  - family-names: Baldoncini
-    given-names: Ignacio José
-  - family-names: Sanchez
-    given-names: Jorge
-  - family-names: Marinelli
-    given-names: María Victoria
-  - family-names: Biedma
-    given-names: Luis
-year: 2023
-conference:
-  name: "2023 XX Workshop on Information Processing and Control (RPIC)"
-  acronym: "RPIC"
-  place: "XX Workshop on Information Processing and Control"
-pages: "1-5"
+  - family-names: "Baldoncini"
+    given-names: "Ignacio José"
+  - family-names: "Sanchez"
+    given-names: "Jorge"
+  - family-names: "Marinelli"
+    given-names: "María Victoria"
+  - family-names: "Biedma"
+    given-names: "Luis"
+title: "Unsupervised detection of crop rows from images taken by an unmanned aerial vehicle"
 doi: "10.1109/RPIC59053.2023.10530849"
+date-released: 2023-11-01
+url: "https://doi.org/10.1109/RPIC59053.2023.10530849"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Baldoncini"
+      given-names: "Ignacio José"
+    - family-names: "Sanchez"
+      given-names: "Jorge"
+    - family-names: "Marinelli"
+      given-names: "María Victoria"
+    - family-names: "Biedma"
+      given-names: "Luis"
+  title: "Unsupervised detection of crop rows from images taken by an unmanned aerial vehicle"
+  conference: 
+    name: "2023 Workshop on Information Processing and Control (RPIC)"
+  year: 2023
+  pages: "1-5"
+  doi: "10.1109/RPIC59053.2023.10530849"
 keywords: 
   - Image segmentation
   - Neural networks
