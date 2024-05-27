@@ -1,4 +1,4 @@
-@INPROCEEDINGS{10530849,
+@inproceedings{10530849,
   author={Baldoncini, Ignacio José and Sanchez, Jorge and Marinelli, María Victoria and Biedma, Luis},
   booktitle={2023 XX Workshop on Information Processing and Control (RPIC)}, 
   title={Unsupervised detection of crop rows from images taken by an unmanned aerial vehicle}, 
