@@ -1,10 +1,11 @@
 @inproceedings{10530849,
-  author={Baldoncini, Ignacio José and Sanchez, Jorge and Marinelli, María Victoria and Biedma, Luis},
-  booktitle={2023 XX Workshop on Information Processing and Control (RPIC)}, 
-  title={Unsupervised detection of crop rows from images taken by an unmanned aerial vehicle}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-5},
-  keywords={Image segmentation;Neural networks;Crops;Process control;Machine learning;Information processing;Autonomous aerial vehicles;Remote Sensing;Crop row detection;Image processing;Precision farming;Horticulture;UAV Imagery;Drone Imagery},
-  doi={10.1109/RPIC59053.2023.10530849}}
+  author = {Baldoncini, Ignacio José and Sanchez, Jorge and Marinelli, María Victoria and Biedma, Luis},
+  booktitle = {2023 XX Workshop on Information Processing and Control (RPIC)}, 
+  title = {Unsupervised detection of crop rows from images taken by an unmanned aerial vehicle}, 
+  year = {2023},
+  volume = {},
+  number = {},
+  pages = {1-5},
+  keywords = {Image segmentation;Neural networks;Crops;Process control;Machine learning;Information processing;Autonomous aerial vehicles;Remote Sensing;Crop row detection;Image processing;Precision farming;Horticulture;UAV Imagery;Drone Imagery},
+  doi = {10.1109/RPIC59053.2023.10530849}
+}
