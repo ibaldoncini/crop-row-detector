@@ -1,7 +1,8 @@
 # crop-row-detector
 Unsupervised detection of crop rows from images taken by an unmanned aerial vehicle
 
-[Link to Article](https://ieeexplore.ieee.org/document/10530849)
+[Link to IEEE Article](https://ieeexplore.ieee.org/document/10530849)
+[Mirror PDF](https://drive.google.com/file/d/12j4y2Auqhi6uzDpqaydWy9dQw3bJRHjA/view?usp=sharing)
 
 ## Abstract
 
